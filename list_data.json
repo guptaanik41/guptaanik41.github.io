@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"Work Experience": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Company": "Bain & Co.",
+			"Title": "Senior Analyst",
+			"Duration": "November 2021 - July 2022",
+			"Skills": "Python, SQL, Data vizualisation, Azure cloud, Business strategy"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Company": "Deloitte India",
+			"Title": "Consulting Analyst",
+			"Duration": "August 2020 - November 2021",
+			"Skills": "Informatica bg data management tool, SQL, PySpark, git, Azure cloud"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Company": "Ernst and Young",
+			"Title": "Data Science Intern",
+			"Duration": "June 2020 - August 2021",
+			"Skills": "Python, Machine learning, PySpark"
 		}
 	]
 }
