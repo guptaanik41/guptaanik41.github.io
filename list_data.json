@@ -5,21 +5,25 @@
 			"Title": "Senior Analyst",
 			"Skills": "Python, SQL, Data vizualisation, Azure cloud, Business strategy",
 			"From": "November 2021",
-			"To": "July 2022"
+			"To": "July 2022",
+			"Project": "Assortment Optimization and Pricing strategy for a million dollar Retail client."
+		
 		},
 		{
 			"Company": "Deloitte India",
 			"Title": "Consulting Analyst",
 			"Skills": "Informatica bg data management tool, SQL, PySpark, git, Azure cloud",
 			"From": "August 2020",
-			"To": "November 2021"
+			"To": "November 2021",
+			"Project": "Deploying a single cloud based platform for data ingestion."
 		},
 		{
 			"Company": "Ernst and Young",
 			"Title": "Data Science Intern",
 			"Skills": "Python, Machine learning, PySpark",
 			"From": "June 2020",
-			"To": "August 2021"
+			"To": "August 2021",
+			"Project": "Retail demand forecasting to predict the future sales of 234 SKUs."
 		}
 	]
 }
